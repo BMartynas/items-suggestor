@@ -1,0 +1,23 @@
+.infoInputs {
+  margin: 5vh auto auto auto;
+  width: 40vw;
+  background-color: white;
+  border: 0.1em solid black;
+  border-radius: 1em;
+  padding: 2em 0em;
+  text-align: center;
+  box-shadow: 0.3em 0.3em #d1d3d2;
+}
+
+.itemsButton {
+  background-color: rgb(37, 37, 36);
+  padding: 1em;
+  margin-top: 2em;
+  border-radius: 1em;
+  color: rgb(231, 231, 231);
+  cursor: pointer;
+}
+
+.tripDetailsTypography {
+  color: rgb(37, 37, 36);
+}
